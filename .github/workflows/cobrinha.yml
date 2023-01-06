@@ -25,7 +25,7 @@ jobs:
           </html>
           EOL
       -
-        name: Deploy to GitHub Pages
+        name: BOThiago
         if: success()
         uses: crazy-max/ghaction-github-pages@v3
         with:
