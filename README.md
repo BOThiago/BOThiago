@@ -1,6 +1,6 @@
 ### Hi there, my name is Thiago Barreto de Oliveira 👋
 <div align="center">
-  <a href="https://www.linkedin.com/in/thiago-oliveira-5b2287206/">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BOThiago&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="right" alt="Thiago-pic" height="350" style="border-radius:200x;" src="https://i.ibb.co/hDKVdbc/ezgif-com-gif-maker-1.gif">
 </div>
