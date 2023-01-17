@@ -27,8 +27,6 @@
   
   ![Github Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
   
-  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-  
   </div> 
 
  ## Tecnologias que utilizo 💻
