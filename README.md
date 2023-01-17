@@ -25,7 +25,7 @@
 
   ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=BOThiago&show_icons=true&theme=radical)
   
-  ![Github Snake Animation](https://user-images.githubusercontent.com/50845287/198006983-1a7c22e4-633f-41c5-b5f7-201278b1700d.svg)
+  ![Github Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
   
   ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
   
