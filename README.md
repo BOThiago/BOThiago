@@ -26,7 +26,7 @@
   
   </div> 
 
- ## Tecnologias que utilizo 💻
+ ## Technologies I use 💻
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Thi-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -41,7 +41,7 @@
 
 <div>
 
-## O lado audiovisual 🎬
+## Audiovisual knowledge 🎬
 
   <img align="center" alt="Thi-Pho" src="https://aleen42.github.io/badges/src/photoshop.svg">
   <img align="center" alt="Thi-Pre" src="https://aleen42.github.io/badges/src/premiere.svg">
