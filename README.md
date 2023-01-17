@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there, my name is Thiago Barreto de Oliveira 👋
+### Hi there, my name is Thiago Barreto de Oliveira ✌
 <div align="center">
   <a href="https://www.linkedin.com/in/thiago-barreto-de-oliveira/">
 
