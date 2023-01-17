@@ -8,6 +8,7 @@
 
 
 <img align="center" alt="Thiago-pic" height="300" style="border-radius:200x;" src="https://i.picasion.com/pic92/e12f20e1073a0f34aaa9ec5b367216eb.gif">
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/e12f20e1073a0f34aaa9ec5b367216eb.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
 
 ##
  
