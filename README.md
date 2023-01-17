@@ -1,7 +1,27 @@
 ### Hi there, my name is Thiago Barreto de Oliveira 👋
 <div align="center">
   <a href="https://www.linkedin.com/in/thiago-barreto-de-oliveira/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BOThiago&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    name: Erwin Lejeune
+    located_in: Abu Dhabi, UAE
+    from: Nantes (France)
+    job: Robotics Software Engineer (UAV Swarms)
+    education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
+    company: Technology Innovation Institute
+    past experiences: 
+      - ["Robotics Software Engineer", "UGV Navigation", "Coalescent Mobile Robotics", "Denmark", "2021-2022"]
+      - ["Jr Backend Software Engineer", "Web App (Go/Postgre/Node)", "Hiventive", "Fully Remote", "2020-2021"]
+      - ["Jr Robotics Researcher", "AI Planning/Control", "LS2N", "France", "2019-2021]
+      - ["Robotics Intern", "UGVs", "Ingeniarius", "Portugal", "2019"]
+      - ["Jr Embedded Systems Engineer", "STM32 Virtualization", "Hiventive", "France", "2019"]
+      - ["Robotics Intern", "UGVs", "Laboratory of Digital Sciences of Nantes (LS2N)", "France", "2019"]
+
+    fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", 
+                          "Localization", "Sensor Fusion", "Embedded Systems"]
+    technical_background: ["Motion Planning", "Optimization", 
+                          "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
+    currently_learning: ["Social Media Bots", "Crypto Trading Bots", "Aerial Robotics"]
+    will_learn: ["Web3"]
+    hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
   <img align="right" alt="Thiago-pic" height="350" style="border-radius:200x;" src="https://i.ibb.co/hDKVdbc/ezgif-com-gif-maker-1.gif">
 </div>
   <div style="display: inline_block"><br>
