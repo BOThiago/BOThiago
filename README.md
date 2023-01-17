@@ -7,7 +7,7 @@
 
 
 
-<img align="center" alt="Thiago-pic" height="300" style="border-radius:200x;" src="https://i.ibb.co/hDKVdbc/ezgif-com-gif-maker-1.gif">
+<img align="center" alt="Thiago-pic" height="300" style="border-radius:200x;" src="https://i.picasion.com/pic92/e12f20e1073a0f34aaa9ec5b367216eb.gif">
 
 ##
  
