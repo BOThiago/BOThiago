@@ -6,7 +6,7 @@
 
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/e12f20e1073a0f34aaa9ec5b367216eb.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 
-##
+## Redes Sociais
  
 <div> 
     <a href="https://www.youtube.com/c/ThiagoGamertg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
