@@ -9,6 +9,7 @@
 ## Redes Sociais
  
 <div> 
+  <br>
     <a href="https://www.youtube.com/c/ThiagoGamertg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
 </a>
   <a href="https://www.instagram.com/barth.tytwo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
@@ -16,7 +17,6 @@
  	<a href="www.twitch.tv/bndtw" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "thiago.barreto.oliveira22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-oliveira-5b2287206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a> 
 
 ##
 
@@ -30,7 +30,7 @@
 
   <div style="display: inline_block"><br>
     
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,py,php,c,cs,mysql,postgres,prisma,docker)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,typescript,nodejs,py,php,c,cs,mysql,postgres,prisma,docker)](https://skillicons.dev)
     
   </div>
 
@@ -38,7 +38,6 @@
 
 ## Audiovisual knowledge 🎬
 
-  <img align="center" alt="Thi-Pho" src="https://aleen42.github.io/badges/src/photoshop.svg">
-  <img align="center" alt="Thi-Pre" src="https://aleen42.github.io/badges/src/premiere.svg">
-  <img align="center" alt="Thi-Aft" src="https://aleen42.github.io/badges/src/after_effects.svg">
+ [![My Skills](https://skillicons.dev/icons?i=ps,pr,ae,au)](https://skillicons.dev)
+  
 </div>
