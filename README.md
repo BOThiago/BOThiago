@@ -29,16 +29,8 @@
  ## Technologies I use 💻
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Thi-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Thi-Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="Thi-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Thi-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Thi-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Thi-Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="Thi-MSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img align="center" alt="Thi-MSQL" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Thi-MSQL" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=php&logoColor=white">    
+    
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,py,php,c,cs,mysql,postgres,prisma,docker)](https://skillicons.dev)
     
   </div>
 
