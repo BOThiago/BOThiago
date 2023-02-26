@@ -30,7 +30,7 @@
 
   <div style="display: inline_block"><br>
     
-   [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,typescript,nodejs,py,php,c,cs,mysql,postgres,prisma,docker)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,typescript,nodejs,py,php,c,cs,mysql,postgres,prisma,docker,mongo)](https://skillicons.dev)
     
   </div>
 
