@@ -25,14 +25,16 @@
 </div>
 <table width="100%">
   <tr>
-    <td valign="top" align="center" width="50%">
-      <h2>About myself</h2>
-      <p>
+    <td valign="middle" align="center" width="50%">
+      <h3>About myself</h3>
+      <p valign="middle" align="center">
         Hey there, my name is Thiago, I am 20 years old and I work as a systems analyst and developer. During my time as a systems analyst, I had the opportunity to work on software development projects and became fascinated with the process of creating technological solutions that can positively impact people's lives. ✌
       </p>
     </td>
-    <td valign="top" align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=BOThiago&show_icons=true&theme=dracula" alt="Thiago's GitHub stats">
+    <td valign="middle" align="center" width="50%">
+        <p valign="middle" align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=BOThiago&show_icons=true&theme=highcontrast&title_color=00ff00&icon_color=00ff00&border_color=00000000&bg_color=00000000&custom_title=&include_all_commits=true" alt="Thiago's GitHub stats">
+        </p>
     </td>
   </tr>
 </table>
