@@ -52,7 +52,7 @@
     </h3>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php,c,cs,java" alt="My Skills" >
+        <img src="https://skillicons.dev/icons?i=php,c,cs,java,python" alt="My Skills" >
       </a>
     </p>
   </div>
