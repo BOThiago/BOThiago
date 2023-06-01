@@ -34,25 +34,29 @@
     <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Github Snake Animation" style="max-width: 100%; width: 100%;">
   </p>
 </div>
-
+<div align="center" style="display: flex; justify-content: space-around; width: 100%;">
+  <div align="center" width="50%">
+    <h3 align="center">
+      Programming languages that I use
+    </h3>
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,typescript,php,cs,java,python" alt="My Skills" style="max-width: 100%; width: 50%;">
+      </a>
+    </p>
+  </div>
 <div align="center" width="100%">
   <h3 align="center">
     Technologies I use 💻
   </h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,nestjs,expressjs,react,nextjs,tailwind,prisma,docker,mysql,postgres,mongo" alt="My Skills" style="max-width: 100%; width: 100%;">
+      <img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,nuxtjs,expressjs,html,css,react,nextjs,angular,gradle" alt="My Skills" style="max-width: 100%; width: 100%;">
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vite,tailwind,bootstrap,sass,prisma,docker,mysql,postgres,mongo,jest,selenium" alt="My Skills" style="max-width: 100%; width: 100%;">
     </a>
   </p>
 </div>
-<div align="center" style="display: flex; justify-content: space-around; width: 100%;">
-  <div align="center" width="50%">
-    <h3 align="center">
-      Technologies I've worked with 📝
-    </h3>
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php,c,cs,java,python" alt="My Skills" >
-      </a>
-    </p>
-  </div>
