@@ -41,7 +41,7 @@
     </h3>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,typescript,php,cs,java,python" alt="My Skills" style="max-width: 100%; width: 50%;">
+        <img src="https://skillicons.dev/icons?i=ts,php,cs,java,python,ruby" alt="My Skills" style="max-width: 100%; width: 50%;">
       </a>
     </p>
   </div>
@@ -51,12 +51,12 @@
   </h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,nuxtjs,expressjs,html,css,react,nextjs,angular,gradle" alt="My Skills" style="max-width: 100%; width: 100%;">
+      <img src="https://skillicons.dev/icons?i=spring,dotnet,nestjs,rails,laravel,nextjs,angular" alt="My Skills" style="max-width: 100%; width: 100%;">
     </a>
   </p>
-  <p align="center">
+    <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vite,tailwind,bootstrap,sass,prisma,docker,mysql,postgres,mongo,jest,selenium" alt="My Skills" style="max-width: 100%; width: 100%;">
+      <img src="https://skillicons.dev/icons?i=django,fastapi,kubernetes,docker,aws,gcp,supabase" alt="My Skills" style="max-width: 100%; width: 100%;">
     </a>
   </p>
 </div>
