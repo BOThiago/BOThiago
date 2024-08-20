@@ -29,11 +29,6 @@
     </td>
   </tr>
 </table>
-<div align="center" width="100%">
-  <p align="center" width="100%">
-    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Github Snake Animation" style="max-width: 100%; width: 100%;">
-  </p>
-</div>
 <div align="center" style="display: flex; justify-content: space-around; width: 100%;">
   <div align="center" width="50%">
     <h3 align="center">
@@ -45,18 +40,19 @@
       </a>
     </p>
   </div>
+</div>
 <div align="center" width="100%">
   <h3 align="center">
     Technologies I use 💻
   </h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=spring,dotnet,nestjs,rails,laravel,nextjs,angular" alt="My Skills" style="max-width: 100%; width: 100%;">
+      <img src="https://skillicons.dev/icons?i=spring,dotnet,nestjs,rails,laravel,nextjs,angular,django,fastapi,kubernetes,docker,aws,gcp,supabase" alt="My Skills" style="max-width: 100%; width: 100%;">
     </a>
   </p>
-    <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=django,fastapi,kubernetes,docker,aws,gcp,supabase" alt="My Skills" style="max-width: 100%; width: 100%;">
-    </a>
+</div>
+<div align="center" width="100%">
+  <p align="center" width="100%">
+    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Github Snake Animation" style="max-width: 100%; width: 100%;">
   </p>
 </div>
