@@ -19,7 +19,7 @@
     <td valign="middle" align="center" width="50%">
       <h3>About myself</h3>
       <p valign="middle" align="center">
-        Hey there, my name is Thiago, I am 21 years old and I work as a fullstack developer. During my time as a systems analyst, I had the opportunity to work on software development projects and became fascinated with the process of creating technological solutions that can positively impact people's lives.
+        Hey there, my name is Thiago, I am 22 years old and I work as a fullstack developer. During my time as a systems analyst, I had the opportunity to work on software development projects and became fascinated with the process of creating technological solutions that can positively impact people's lives.
       </p>
     </td>
     <td valign="middle" align="center" width="50%">
